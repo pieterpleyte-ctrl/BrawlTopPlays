@@ -1,2 +1,0 @@
-# Privacy Policy
-BrawlTopPlays verwerkt minimaal persoonsgegevens. Wij slaan uitsluitend de TikTok‑gebruikersnaam en het door TikTok verstrekte toegangstoken op om video’s te kunnen uploaden. Wij delen deze gegevens niet met derden en verwijderen ze op verzoek. Omdat de video’s afkomstig zijn van openbare bronnen of eigen gameplay, bevatten ze geen persoonsgegevens van anderen. Deze website maakt geen gebruik van cookies.
